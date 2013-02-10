@@ -42,6 +42,7 @@ function (app, Backbone) {
         },
         _bindEvents: function (buttons) {
             var self = this;
+            $(buttons).die();
             $(buttons).live("click", function () {
                 var commandValue = $(this).text().replace(" ", "").substring(0, 1).toUpperCase();
                 console.log(commandValue);
@@ -68,7 +69,35 @@ function (app, Backbone) {
             $(placeholder).show();
         }
     });
+    $("html").live("keydown", function (event) {  
+            var key = event.which;
+            switch (key) {
+                case 38: sendCommand("F", "FORWARD");
+                    event.preventDefault();
+                    break;
+                case 40: sendCommand("B", "BACKWARD");
+                    event.preventDefault();
+                    break;
+                case 37: sendCommand("L", "LEFT");
+                    event.preventDefault(); break;
+                case 39: sendCommand("R", "RIGHT");
+                    event.preventDefault(); break;
+                default: break;
+            }
 
+        console.log(key);
+    });
+    var sendCommand = function (data,commandText) {
+        $.ajax({
+            data: {
+                Value: data
+            },
+            url: "/api/commands",
+            type: "POST"
+        }).success(function () {
+            $(".app-bar").prepend("<div style='float:left;width:100%;position:relative'>" + "> " + commandText + "</div>");
+        })
+    }
     return Router;
 
 });
