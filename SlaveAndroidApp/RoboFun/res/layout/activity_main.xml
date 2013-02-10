@@ -1,0 +1,129 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textLeftMotorSpeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/leftMotorSpeedText" />
+
+    <SeekBar
+        android:id="@+id/valueLeftMotorSpeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textLeftMotorSpeed"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:progress="100" />
+
+    <TextView
+        android:id="@+id/textRightMotorSpeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/valueLeftMotorSpeed"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/rightMotorSpeedText" />
+
+    <SeekBar
+        android:id="@+id/valueRightMotorSpeed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textRightMotorSpeed"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:indeterminate="false"
+        android:minHeight="20dip"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:progress="100" />
+
+    <TextView
+        android:id="@+id/statusText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/valueRightMotorSpeed"
+        android:layout_alignRight="@+id/valueRightMotorSpeed"
+        android:layout_below="@+id/valueRightMotorSpeed"
+        android:gravity="center"
+        android:text="Hello!"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/btActivate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/statusText"
+        android:layout_alignRight="@+id/textRightMotorSpeed"
+        android:layout_below="@+id/statusText"
+        android:onClick="onActivateBt"
+        android:text="BtActivate"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <Button
+        android:id="@+id/arduConnect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btActivate"
+        android:layout_alignBottom="@+id/btActivate"
+        android:layout_alignRight="@+id/statusText"
+        android:onClick="onConnectToArduino"
+        android:text="ArduConnect"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btActivate"
+        android:layout_toLeftOf="@+id/arduConnect"
+        android:onClick="onSendGoFront"
+        android:text="Front" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button1"
+        android:layout_toLeftOf="@+id/button1"
+        android:onClick="onSendGoLeft"
+        android:text="Left" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button2"
+        android:layout_toRightOf="@+id/button2"
+        android:onClick="onSendGoBack"
+        android:text="Back" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button3"
+        android:layout_alignLeft="@+id/arduConnect"
+        android:onClick="onSendGoRight"
+        android:text="Right" />
+
+</RelativeLayout>

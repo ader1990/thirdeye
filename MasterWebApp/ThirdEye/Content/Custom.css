@@ -1,0 +1,281 @@
+﻿
+html, body, #body {
+    background-color: #fff;
+    font-family: 'Angsana New';
+}
+
+.content-wrapper {
+    width: 960px;
+    height: 760px;
+    border-radius: 1px;
+}
+
+.content-wrapper-wrapp {
+    width: 96%;
+    height: 760px;
+    box-shadow: 1px 4px 5px 1px #b8c3b8;
+}
+
+    .content-wrapper-wrapp > * {
+        position: relative;
+        float: left;
+    }
+
+.content-wrapper > * {
+    position: relative;
+    float: left;
+}
+
+#header {
+    width: 100%;
+    height: 7%;
+    background-color: #404b52;
+}
+
+    #header > * {
+        position: relative;
+        float: left;
+    }
+
+.left-part {
+    width: 16%;
+    position: relative;
+    float: left;
+}
+
+.operation_button {
+    width: 32px;
+    height: 35px;
+    background-color: #404b52;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    box-shadow: 1px 1px 1px 2px #009eff;
+    float: right;
+    position: relative;
+    margin-top: 0px;
+    opacity: 0.7;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    color: #def5ee;
+    padding-left: 7px;
+    padding-top: 3px;
+}
+
+    .operation_button:hover {
+        opacity: 1;
+    }
+
+.left-left-part {
+    width: 4%;
+    height: 100%;
+    position: relative;
+    float: left;
+}
+
+.link {
+    text-decoration: none;
+    background: none;
+}
+
+    .link:hover, a:hover {
+        text-decoration: none;
+        background: none;
+    }
+
+    .link:hover {
+        color: #def5ee;
+        text-shadow: 1px 1px 2px #404b52;
+    }
+
+a {
+    text-decoration: none;
+    background: none;
+}
+
+.right-part {
+    width: 84%;
+    position: relative;
+    float: left;
+}
+
+.right {
+    position: relative;
+    float: left;
+    width: 81%;
+    height: 100%;
+}
+
+    .right > * {
+        position: relative;
+        float: left;
+    }
+
+
+
+.logo-placehodler {
+    width: 19%;
+    height: 100%;
+}
+
+.logo {
+    width: 110px;
+    height: 45px;
+    margin-left: 20px;
+    margin-top: 1px;
+    background-image: url(/Images/robo-logo.jpg);
+    background-size: 100%;
+    background-position-x: right;
+    background-repeat: no-repeat;
+}
+
+#motto {
+    color: #3fb357;
+    text-shadow: 1px 1px 1px #009eff;
+    font-size: 30px;
+    margin: 5px;
+    font-weight: 600;
+    margin-left: 30px;
+}
+
+#user-info {
+    margin: 20px;
+    margin-top: 0px;
+    margin-right: 15px;
+    cursor: pointer;
+    float: right;
+    position: relative;
+    color: #a0b0dc;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#body {
+    position: relative;
+    float: left;
+    height: 100%;
+    width: 100%;
+}
+
+.menu {
+    background-color: #35a8ba;
+    height: 100%;
+}
+
+.content-placeholder > div {
+    display: none;
+}
+
+.content-placeholder {
+    background-color: #fff;
+    height: 100%;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    boxs-shadow: 2px 3px 4px 0px #b8c3b8;
+}
+
+.button {
+    position: relative;
+    float: right;
+    height: 50px;
+    margin-top: 0px;
+    margin-left: 20px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    padding-top: 0px;
+    width: 100%;
+    cursor: pointer;
+    font-size: 26px;
+    font-weight: 600;
+    z-index: 100;
+}
+
+    .button > div {
+        margin: 20px;
+        margin-top: 6px;
+    }
+
+.selected {
+    text-shadow: 1px 1px 1px #000000;
+    color: #fff;
+}
+
+.red {
+    background-color: #e1afdf;
+}
+
+.red-shadow {
+    box-shadow: -1px 0px 2px 0px #ae4c1e;
+}
+
+.blue {
+    background-color: #a0b0dc;
+}
+
+.blue-shadow {
+    box-shadow: -1px 0px 2px 0px #042b48;
+}
+
+.yellow {
+    background-color: #afe1af;
+}
+
+.yellow-shadow {
+    box-shadow: -1px 0px 2px 0px #a99608;
+}
+
+.link_img {
+    width: 35px;
+    border: 0px;
+    float: left;
+    position: relative;
+}
+
+.link_txt {
+    margin-top: 5px;
+    width: 35px;
+    border: 0px;
+    float: left;
+    position: relative;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+.flower_placeholder {
+    text-align: center;
+    width: 160px;
+    height: 120px;
+    float: left;
+    position: relative;
+    margin: 16px;
+}
+
+.flower_name {
+    width: 120px;
+    height: 20px;
+    float: left;
+    position: relative;
+    margin: 5px;
+    font-weight: bold;
+    font-size: 27px;
+    color: #e16309;
+    text-shadow: 1px 1px 1px 1px#5e6369;
+}
+
+.flower_logo {
+    width: 120px;
+    height: 90px;
+    float: left;
+    position: relative;
+    margin: 5px;
+}
+
+    .flower_logo img {
+        box-shadow: 1px 2px 5px 1px #757b7f;
+        border-radius: 2px;
+        width: 110px;
+        height: 90px;
+        float: left;
+        position: relative;
+        margin: 5px;
+    }

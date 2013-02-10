@@ -1,0 +1,263 @@
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\ThirdEye.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\ThirdEye.pdb
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\Antlr3.Runtime.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.Core.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.Core.UI.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.InfoCard.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.InfoCard.UI.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.Common.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.Client.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.Provider.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.UI.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenIdOAuth.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\EntityFramework.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\Newtonsoft.Json.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Net.Http.Formatting.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.Helpers.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.Http.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.Http.WebHost.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.Mvc.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.Optimization.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.Providers.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.Razor.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.WebPages.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.WebPages.Razor.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\WebGrease.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\WebMatrix.Data.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\WebMatrix.WebData.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\Mono.Math.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.Core.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.Core.UI.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.InfoCard.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.InfoCard.UI.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.Common.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.Client.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.Client.UI.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.Provider.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.Provider.UI.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.UI.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenIdOAuth.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\EntityFramework.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\Newtonsoft.Json.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Net.Http.Formatting.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.Helpers.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.Http.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.Http.WebHost.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.Mvc.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.Razor.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.WebPages.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\System.Web.WebPages.Razor.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\WebMatrix.Data.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\WebMatrix.WebData.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\bin\Mono.Math.xml
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\obj\Debug\ThirdEye.csprojResolveAssemblyReference.cache
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\obj\Debug\ThirdEye.dll
+C:\Users\adrian\Documents\GitHub\arduinoproject\ThirdEye\obj\Debug\ThirdEye.pdb
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\ThirdEye.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\ThirdEye.pdb
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\Antlr3.Runtime.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.AspNet.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.Core.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.Core.UI.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.InfoCard.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.InfoCard.UI.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.Common.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.ServiceProvider.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.Client.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.Client.UI.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.ResourceServer.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.Provider.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.Provider.UI.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.UI.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenIdOAuth.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\EntityFramework.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\Microsoft.Web.Infrastructure.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\Newtonsoft.Json.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Net.Http.Formatting.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.Helpers.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.Http.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.Http.WebHost.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.Mvc.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.Optimization.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.Providers.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.Razor.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.WebPages.Deployment.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.WebPages.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.WebPages.Razor.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\WebGrease.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\WebMatrix.Data.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\WebMatrix.WebData.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\Org.Mentalis.Security.Cryptography.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\Mono.Math.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.AspNet.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.Core.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.Core.UI.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.InfoCard.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.InfoCard.UI.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.Common.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth.ServiceProvider.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.Client.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.Client.UI.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OAuth2.ResourceServer.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.Provider.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.Provider.UI.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenId.UI.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\DotNetOpenAuth.OpenIdOAuth.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\EntityFramework.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\Newtonsoft.Json.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Net.Http.Formatting.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.Helpers.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.Http.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.Http.WebHost.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.Mvc.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.Razor.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.WebPages.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.WebPages.Deployment.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\System.Web.WebPages.Razor.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\WebMatrix.Data.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\WebMatrix.WebData.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\Org.Mentalis.Security.Cryptography.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\bin\Mono.Math.xml
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\obj\Debug\ThirdEye.dll
+D:\_AWork\Hackathon Win8\3rdEye\repository\arduinoproject\ThirdEye\obj\Debug\ThirdEye.pdb
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\ThirdEye.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\ThirdEye.pdb
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\Antlr3.Runtime.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.Core.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.Core.UI.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.InfoCard.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.InfoCard.UI.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth.Common.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth2.Client.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth2.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenId.Provider.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenId.UI.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenIdOAuth.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\EntityFramework.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\Newtonsoft.Json.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Net.Http.Formatting.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.Helpers.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.Http.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.Http.WebHost.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.Mvc.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.Optimization.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.Providers.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.Razor.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.WebPages.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.WebPages.Razor.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\WebGrease.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\WebMatrix.Data.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\WebMatrix.WebData.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\Mono.Math.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.Core.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.Core.UI.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.InfoCard.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.InfoCard.UI.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth.Common.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth2.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth2.Client.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth2.Client.UI.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenId.Provider.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenId.Provider.UI.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenId.UI.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\DotNetOpenAuth.OpenIdOAuth.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\EntityFramework.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\Newtonsoft.Json.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Net.Http.Formatting.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.Helpers.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.Http.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.Http.WebHost.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.Mvc.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.Razor.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.WebPages.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\System.Web.WebPages.Razor.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\WebMatrix.Data.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\WebMatrix.WebData.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\bin\Mono.Math.xml
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\obj\Debug\ThirdEye.csprojResolveAssemblyReference.cache
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\obj\Debug\ThirdEye.dll
+C:\Users\adrian\Documents\GitHub\thirdeye\MasterWebApp\ThirdEye\obj\Debug\ThirdEye.pdb

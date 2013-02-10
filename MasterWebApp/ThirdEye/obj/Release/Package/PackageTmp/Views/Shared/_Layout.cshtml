@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    <script data-main="/Scripts/App/Config" src="/Scripts/lib/require.js"></script>
+</head>
+<body class="bg-color-blueLight">
+    <div id="page-header">
+        <div class="page-header-content">
+           @* <div class="user-login">*@
+                @*<a href="/">
+                    <div class="name">
+                        <span class="first-name">3rdEye</span>
+                    </div>*@
+                    @*<div class="avatar place-right">
+                        <img src="~/Images/robo-logo.jpg" />
+                    </div>*@
+                @*</a>*@
+            @*</div>*@
+            <h2>Robot Remote Control</h2>
+        </div>
+    </div>
+    <div class="page snapped bg-color-custom fixed-header" style="height: 100%;">
+        <button class="command-button">
+            Remote Control
+        </button>
+    </div>
+    <div class="page fill">
+        @RenderBody()
+    </div>
+    <div class="app-bar fg-color-white">
+        ...
+    </div>
+</body>
+</html>

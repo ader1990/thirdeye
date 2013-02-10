@@ -1,0 +1,37 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	modified:   FlowerPower.Tests/bin/Debug/FlowerPower.Tests.dll
+#	modified:   FlowerPower.Tests/bin/Debug/FlowerPower.Tests.pdb
+#	modified:   FlowerPower.Tests/bin/Debug/FlowerPower.dll
+#	modified:   FlowerPower.Tests/bin/Debug/FlowerPower.pdb
+#	modified:   FlowerPower.Tests/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	modified:   FlowerPower.Tests/obj/Debug/FlowerPower.Tests.csprojResolveAssemblyReference.cache
+#	modified:   FlowerPower.Tests/obj/Debug/FlowerPower.Tests.dll
+#	modified:   FlowerPower.Tests/obj/Debug/FlowerPower.Tests.pdb
+#	modified:   FlowerPower.v11.suo
+#	modified:   FlowerPower/App_Start/BundleConfig.cs
+#	modified:   FlowerPower/FlowerPower.csproj
+#	modified:   FlowerPower/FlowerPower.csproj.user
+#	modified:   FlowerPower/Scripts/App/Router.js
+#	modified:   FlowerPower/Views/Home/Index.cshtml
+#	modified:   FlowerPower/bin/FlowerPower.dll
+#	modified:   FlowerPower/bin/FlowerPower.pdb
+#	modified:   FlowerPower/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+#	modified:   FlowerPower/obj/Debug/FlowerPower.dll
+#	modified:   FlowerPower/obj/Debug/FlowerPower.pdb
+#	modified:   TestResults/FlowerPower.TE.Tests.mdf
+#	modified:   TestResults/FlowerPower.TE.Tests_log.ldf
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	FlowerPower/Content/Custom.css
+#	FlowerPower/Images/bg.png
+#	FlowerPower/Images/logo.png
+#	FlowerPower/Scripts/libs/jasmine/jasmine-amd.js
+

@@ -1,0 +1,116 @@
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\FlowerPower.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\FlowerPower.pdb
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\Antlr3.Runtime.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\EntityFramework.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\Newtonsoft.Json.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Net.Http.Formatting.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.Helpers.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.Http.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.Http.WebHost.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.Mvc.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.Optimization.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.Providers.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.Razor.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.WebPages.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.WebPages.Razor.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\WebGrease.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\EntityFramework.xml
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\Newtonsoft.Json.xml
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Net.Http.Formatting.xml
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.Helpers.xml
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.Http.xml
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.Http.WebHost.xml
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.Mvc.xml
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.Razor.xml
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.WebPages.xml
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\bin\System.Web.WebPages.Razor.xml
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csprojResolveAssemblyReference.cache
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\obj\Debug\FlowerPower.dll
+C:\Users\adi\documents\visual studio 2012\Projects\FlowerPower\FlowerPower\obj\Debug\FlowerPower.pdb
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\FlowerPower.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\FlowerPower.pdb
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\Antlr3.Runtime.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\EntityFramework.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\Newtonsoft.Json.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Net.Http.Formatting.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.Helpers.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.Http.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.Http.WebHost.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.Mvc.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.Optimization.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.Providers.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.Razor.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.WebPages.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.WebPages.Razor.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\WebGrease.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\EntityFramework.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\Newtonsoft.Json.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Net.Http.Formatting.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.Helpers.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.Http.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.Http.WebHost.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.Mvc.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.Razor.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.WebPages.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\System.Web.WebPages.Razor.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\obj\Debug\FlowerPower.csprojResolveAssemblyReference.cache
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\obj\Debug\FlowerPower.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\obj\Debug\FlowerPower.pdb
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.Core.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.Core.UI.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.InfoCard.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.InfoCard.UI.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth.Common.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth.ServiceProvider.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth2.Client.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth2.Client.UI.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth2.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth2.ResourceServer.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenId.Provider.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenId.Provider.UI.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenId.UI.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenIdInfoCard.UI.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenIdOAuth.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\Mono.Math.dll
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.Core.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.Core.UI.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.InfoCard.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.InfoCard.UI.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth.Common.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth.ServiceProvider.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth2.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth2.AuthorizationServer.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth2.Client.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth2.Client.UI.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth2.ClientAuthorization.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OAuth2.ResourceServer.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenId.Provider.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenId.Provider.UI.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenId.RelyingParty.UI.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenId.UI.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenIdInfoCard.UI.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\DotNetOpenAuth.OpenIdOAuth.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\adrian\Documents\GitHub\flowerpower\FlowerPower\bin\Mono.Math.xml

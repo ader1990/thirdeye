@@ -1,0 +1,16 @@
+﻿@model ThirdEye.Models.LoginModel
+
+@{
+    ViewBag.Title = "Log in";
+}
+<div style="padding: 20px;width:100%;float:left;position:relative;height:100%;display:block">
+    <hgroup class="title">
+        <h1>@ViewBag.Title.</h1>
+    </hgroup>
+
+    <section class="social" id="socialLoginForm">
+        <h2>Use a web service to log in.</h2>
+        @Html.Action("ExternalLoginsList", new { ReturnUrl = ViewBag.ReturnUrl })
+    </section>
+
+</div>
