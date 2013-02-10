@@ -163,7 +163,8 @@ public class MainActivity extends Activity {
 										response.getEntity().writeTo(out);
 										out.close();
 										String c = out.toString();
-										String command=c.substring(c.indexOf("Value")+8,c.indexOf("Value")+9);
+										int cmdIndex=c.indexOf("Value")+8;
+										String command=c.substring(cmdIndex,cmdIndex+1);
 										final String responseString = command;
 										runOnUiThread(new Runnable() {
 											@Override
@@ -191,7 +192,7 @@ public class MainActivity extends Activity {
 									}
 								} catch (Exception e) {
 								}
-								Thread.sleep(500);
+								Thread.sleep(200);
 							}
 							runOnUiThread(new Runnable() {
 								@Override
@@ -287,7 +288,7 @@ public class MainActivity extends Activity {
 											public void run() {
 												tv.setText("Arduino Connected");
 												connectButton
-														.setText("ArduDisconnect");
+														.setText("Ardu-connect");
 											}
 										});
 
