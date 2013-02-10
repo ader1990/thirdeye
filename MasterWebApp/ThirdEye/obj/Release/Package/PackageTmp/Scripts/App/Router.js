@@ -12,42 +12,49 @@ function (app, Backbone) {
             "#": "index",
         },
         index: function () {
-            var self = this; $.ajax({
-                url: "/api/commands",
-                data: {
-                    Id: null,
-                    Value: "Haha",
-                },
-                type: "POST",
-            });
+            var self = this;
+            //$.ajax({
+            //    url: "/api/commands",
+            //    data: {
+            //        Id: null,
+            //        Value: "Haha",
+            //    },
+            //    type: "POST",
+            //});
             self._showOperationMenu(51);
-            var placeholder = "#flowers";
-            self._showPlaceholder(placeholder);
-            $(".flower-menu a").css("z-index", 0);
-            $(".link").removeClass("selected");
-            $(".flower-menu a").addClass("selected");
-            $(".flower-menu a").css("z-index", 100);
-            $.ajax({
-                url: "/api/flowers",
-                type: "POST",
-                data: {
-                    Name: "Flower Power",
-                }
-            }).success(function () {
-                $.ajax({
-                    url: "/api/flowers",
-                    type: "GET"
-                }).success(function (data) {
-                    console.log(data);
+            //$.ajax({
+            //    url: "/api/flowers",
+            //    type: "POST",
+            //    data: {
+            //        Name: "Flower Power",
+            //    }
+            //}).success(function () {
+            //    $.ajax({
+            //        url: "/api/flowers",
+            //        type: "GET"
+            //    }).success(function (data) {
+            //        console.log(data);
 
-                    for (var i in data) {
-                        $.ajax({
-                            url: "/api/flowers/" + data[i].Id,
-                            type: "DELETE"
-                        });
-                        $("#flowers").append("<p>" + data[i].Name + "</p>");
-                    }
-                });
+            //    });
+            //});
+
+            self._bindEvents("button.default");
+        },
+        _bindEvents: function (buttons) {
+            var self = this;
+            $(buttons).live("click", function () {
+                var commandValue = $(this).text().replace(" ", "").substring(0, 1).toUpperCase();
+                console.log(commandValue);
+                var commandText = $(this).text().toUpperCase();
+                $.ajax({
+                    data: {
+                        Value: commandValue
+                    },
+                    url: "/api/commands",
+                    type: "POST"
+                }).success(function () {
+                    $(".app-bar").prepend("<div style='float:left;width:100%;position:relative'>" + "> " + commandText + "</div>");
+                })
             });
         },
         _showOperationMenu: function (offset) {

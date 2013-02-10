@@ -73,7 +73,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/statusText"
-        android:layout_alignRight="@+id/textRightMotorSpeed"
         android:layout_below="@+id/statusText"
         android:onClick="onActivateBt"
         android:text="BtActivate"
@@ -91,39 +90,58 @@
         android:textAppearance="?android:attr/textAppearanceSmall" />
 
     <Button
-        android:id="@+id/button1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/btActivate"
-        android:layout_toLeftOf="@+id/arduConnect"
-        android:onClick="onSendGoFront"
-        android:text="Front" />
-
-    <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/button1"
-        android:layout_toLeftOf="@+id/button1"
+        android:layout_above="@+id/button3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/btActivate"
         android:onClick="onSendGoLeft"
-        android:text="Left" />
+        android:text="Left"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/button2"
-        android:layout_toRightOf="@+id/button2"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/button4"
+        android:layout_toRightOf="@+id/btActivate"
         android:onClick="onSendGoBack"
-        android:text="Back" />
+        android:text="Back"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
 
     <Button
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/button3"
+        android:layout_alignBottom="@+id/button2"
         android:layout_alignLeft="@+id/arduConnect"
+        android:layout_alignRight="@+id/arduConnect"
         android:onClick="onSendGoRight"
-        android:text="Right" />
+        android:text="Right"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button4"
+        android:layout_toLeftOf="@+id/button4"
+        android:layout_toRightOf="@+id/btActivate"
+        android:onClick="onSendGoFront"
+        android:text="Front"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <Button
+        android:id="@+id/sync"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/btActivate"
+        android:layout_alignRight="@+id/button1"
+        android:layout_toRightOf="@+id/btActivate"
+        android:onClick="onSync"
+        android:textAppearance="?android:attr/textAppearanceSmall" 
+        android:text="Sync" />
 
 </RelativeLayout>

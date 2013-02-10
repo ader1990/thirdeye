@@ -11,29 +11,31 @@
 <body class="bg-color-blueLight">
     <div id="page-header">
         <div class="page-header-content">
-           @* <div class="user-login">*@
-                @*<a href="/">
+            @* <div class="user-login">*@
+            @*<a href="/">
                     <div class="name">
                         <span class="first-name">3rdEye</span>
                     </div>*@
-                    @*<div class="avatar place-right">
+            @*<div class="avatar place-right">
                         <img src="~/Images/robo-logo.jpg" />
                     </div>*@
-                @*</a>*@
+            @*</a>*@
             @*</div>*@
             <h2>Robot Remote Control</h2>
         </div>
     </div>
-    <div class="page snapped bg-color-custom fixed-header" style="height: 100%;">
+    <div class="page snapped bg-color-custom fixed-header" style="height: 100%;width:100%;background-color:#fff!important">
         <button class="command-button">
             Remote Control
         </button>
+        <div class="avatar place-left" style="text-align:center">
+            <img src="~/Images/tank.png" />
+        </div>
+        <div class="page fill">
+            @RenderBody()
+        </div>
     </div>
-    <div class="page fill">
-        @RenderBody()
-    </div>
-    <div class="app-bar fg-color-white">
-        ...
+    <div class="app-bar fg-color-white" style="height:250px;overflow:scroll">
     </div>
 </body>
 </html>

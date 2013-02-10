@@ -16,13 +16,13 @@ public final class R {
     public static final class id {
         public static final int arduConnect=0x7f070006;
         public static final int btActivate=0x7f070005;
-        public static final int button1=0x7f070007;
-        public static final int button2=0x7f070008;
-        public static final int button3=0x7f070009;
-        public static final int button4=0x7f07000a;
-        public static final int item1=0x7f07000c;
-        public static final int menu_settings=0x7f07000b;
+        public static final int button1=0x7f07000a;
+        public static final int button2=0x7f070007;
+        public static final int button3=0x7f070008;
+        public static final int button4=0x7f070009;
+        public static final int menu_settings=0x7f07000c;
         public static final int statusText=0x7f070004;
+        public static final int sync=0x7f07000b;
         public static final int textLeftMotorSpeed=0x7f070000;
         public static final int textRightMotorSpeed=0x7f070002;
         public static final int valueLeftMotorSpeed=0x7f070001;

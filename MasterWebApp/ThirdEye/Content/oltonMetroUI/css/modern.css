@@ -2859,6 +2859,11 @@ button.default,
   background-color: #008287;
   color: #fff;
 }
+button.default:hover,
+.button.default:hover {
+  background-color: #870063;
+  color: #fff;
+}
 button:focus,
 .button:focus {
   outline: 0;
@@ -2895,7 +2900,7 @@ button.big,
   width: 48px;
 }
 .command-button {
-  width: 330px;
+  width: 100%;
   text-align: left;
   padding: 10px 20px;
   height: auto;

@@ -16,10 +16,23 @@ namespace ThirdEye.Controllers
     {
         private FlowerContext db = new FlowerContext();
 
-        // GET api/Flowers
-        public IEnumerable<Command> GetFlowers()
+        public Command GetCommand()
         {
-            return db.Commands.Where(x => true).AsEnumerable();
+            Command lc = null;
+            IList<Command> cs = db.Commands.OrderBy(x => -x.Id).Where(x => x.Executed == false).ToList();
+
+            foreach (var c in cs)
+            {
+                lc = c;
+                c.Executed = true;
+                db.Entry(c).State = EntityState.Modified;
+            }
+            try
+            {
+                db.SaveChanges();
+            }
+            catch (Exception e) { }
+            return lc;
         }
 
         // GET api/Flowers/5
@@ -61,14 +74,14 @@ namespace ThirdEye.Controllers
         // POST api/Flowers
         public HttpResponseMessage PostFlower(Command flower)
         {
-            
-                db.Commands.Add(flower);
-                db.SaveChanges();
 
-                HttpResponseMessage response = Request.CreateResponse(HttpStatusCode.Created, flower);
-                response.Headers.Location = new Uri(Url.Link("DefaultApi", new { id = flower.Id }));
-                return response;
-           
+            db.Commands.Add(flower);
+            db.SaveChanges();
+
+            HttpResponseMessage response = Request.CreateResponse(HttpStatusCode.Created, flower);
+            response.Headers.Location = new Uri(Url.Link("DefaultApi", new { id = flower.Id }));
+            return response;
+
         }
 
         // DELETE api/Flowers/5

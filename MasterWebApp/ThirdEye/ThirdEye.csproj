@@ -436,6 +436,7 @@
     <Content Include="Images\nice-flowers.jpg" />
     <Content Include="Images\question.png" />
     <Content Include="Images\robo-logo.jpg" />
+    <Content Include="Images\tank.png" />
     <Content Include="Images\tree.png" />
     <Content Include="Images\zicon_floare.png" />
     <Content Include="Images\icon_ghiveci.png" />

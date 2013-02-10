@@ -5,6 +5,5 @@
         android:orderInCategory="100"
         android:showAsAction="never"
         android:title="@string/menu_settings"/>
-    <item android:id="@+id/item1" android:title="Sync" android:onClick="onActivateBt"></item>
 
 </menu>

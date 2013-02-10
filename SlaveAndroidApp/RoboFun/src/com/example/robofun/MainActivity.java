@@ -34,6 +34,8 @@ import android.widget.TextView;
 public class MainActivity extends Activity {
 	private TextView tv;
 	private Button connectButton;
+	private Button syncButton;
+	private String serverEndpoint = "http://thirdeye1.azurewebsites.net/api/commands";
 	private static final int REQUEST_ENABLE_BT = 1107;
 	private String bluetoothPairedDeviceName = "RN42-665A";
 	private BluetoothAdapter mBluetoothAdapter = null;
@@ -43,7 +45,7 @@ public class MainActivity extends Activity {
 	private String bluetoothNotFoundText = "Bluetooth Device Not Found.";
 	private String bluetoothDisabledText = "Bluetooth Disabled";
 	private String bluetoothEnabledText = "Bluetooth Enabled.";
-	private volatile Boolean disconnectArduino = false;
+	private volatile Boolean inSync = false;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -51,6 +53,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		tv = (TextView) findViewById(R.id.statusText);
 		connectButton = (Button) findViewById(R.id.arduConnect);
+		syncButton = (Button) findViewById(R.id.sync);
 	}
 
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
@@ -132,12 +135,91 @@ public class MainActivity extends Activity {
 		}
 	}
 
+	public void onSync(View v) {
+		Thread internetSyncThread = new Thread() {
+			@Override
+			public void run() {
+				try {
+					synchronized (this) {
+						if (inSync == false) {
+							inSync = true;
+							runOnUiThread(new Runnable() {
+								@Override
+								public void run() {
+									syncButton.setText("Stop sync");
+								}
+							});
+							while (inSync) {
+								// start run
+								HttpClient httpclient = new DefaultHttpClient();
+								HttpResponse response;
+								try {
+									response = httpclient.execute(new HttpGet(
+											serverEndpoint));
+									StatusLine statusLine = response
+											.getStatusLine();
+									if (statusLine.getStatusCode() == HttpStatus.SC_OK) {
+										ByteArrayOutputStream out = new ByteArrayOutputStream();
+										response.getEntity().writeTo(out);
+										out.close();
+										String c = out.toString();
+										String command=c.substring(c.indexOf("Value")+8,c.indexOf("Value")+9);
+										final String responseString = command;
+										runOnUiThread(new Runnable() {
+											@Override
+											public void run() {
+												tv.setText(responseString);
+											}
+										});
+										try {
+											if (responseString.length() > 0) {
+												if (arduinoBluetoothSocket != null) {
+													OutputStream mmOutputStream = arduinoBluetoothSocket
+															.getOutputStream();
+													mmOutputStream
+															.write(responseString
+																	.substring(
+																			0,
+																			1)
+																	.getBytes(
+																			"UTF-8"));
+													//mmOutputStream.close();
+												}
+											}
+										} catch (Exception e) {
+										}
+									}
+								} catch (Exception e) {
+								}
+								Thread.sleep(500);
+							}
+							runOnUiThread(new Runnable() {
+								@Override
+								public void run() {
+									syncButton.setText("Sync");
+								}
+							});
+
+						} else {
+							inSync = false;
+						}
+					}
+				} catch (Exception e) {
+				}
+			}
+		};
+		internetSyncThread.start();
+
+	}
+
 	public void onSendGoFront(View v) {
 		methodSendMessage("F");
 	}
+
 	public void onSendGoBack(View v) {
 		methodSendMessage("B");
 	}
+
 	public void onSendGoLeft(View v) {
 
 		methodSendMessage("L");
