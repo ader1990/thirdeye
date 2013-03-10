@@ -547,7 +547,9 @@
     <None Include="Properties\PublishProfiles\karma - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\thirdeye - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\thirdeye - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\thirdeye1 - FTP %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\thirdeye1 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\thirdeye1 - Web Deploy %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\thirdeye1 - Web Deploy.pubxml" />
     <None Include="Scripts\lib\jquery.validate-vsdoc.js" />
     <None Include="Scripts\lib\jquery-1.7.2.intellisense.js" />

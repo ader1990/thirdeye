@@ -72,15 +72,15 @@ function (app, Backbone) {
     $("html").live("keydown", function (event) {  
             var key = event.which;
             switch (key) {
-                case 38: sendCommand("F", "FORWARD");
+                case 65: sendCommand("F", "FORWARD");
                     event.preventDefault();
                     break;
-                case 40: sendCommand("B", "BACKWARD");
+                case 66: sendCommand("B", "BACKWARD");
                     event.preventDefault();
                     break;
-                case 37: sendCommand("L", "LEFT");
+                case 67: sendCommand("L", "LEFT");
                     event.preventDefault(); break;
-                case 39: sendCommand("R", "RIGHT");
+                case 68: sendCommand("R", "RIGHT");
                     event.preventDefault(); break;
                 default: break;
             }
