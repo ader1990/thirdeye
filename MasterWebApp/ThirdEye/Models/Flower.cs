@@ -21,10 +21,11 @@ namespace ThirdEye.Models
         public int Id { get; set; }
         public string Value { get; set; }
         public bool Executed { get; set; }
+        public String UserName { get; set; }
     }
 
 
-
+    [Table("UserProfiles")]
     public class UserProfile
     {
         [Key]

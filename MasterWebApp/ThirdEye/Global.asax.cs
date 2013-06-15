@@ -27,7 +27,7 @@ namespace ThirdEye
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             Database.SetInitializer<FlowerContext>(null);
-            WebSecurity.InitializeDatabaseConnection("FlowerConnection", "UserProfile", "Id", "Name", autoCreateTables: true);
+            WebSecurity.InitializeDatabaseConnection("FlowerConnection", "UserProfiles", "UserId", "UserName", autoCreateTables: true);
             AuthConfig.RegisterAuth();
         }
     }

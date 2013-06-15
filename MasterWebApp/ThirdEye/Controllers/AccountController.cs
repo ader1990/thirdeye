@@ -49,7 +49,6 @@ namespace ThirdEye.Controllers
         //
         // POST: /Account/LogOff
 
-        [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult LogOff()
         {
@@ -277,7 +276,9 @@ namespace ThirdEye.Controllers
                         {
                             OAuthWebSecurity.CreateOrUpdateAccount(provider, providerUserId, model.UserName);
                         }
-                        catch (Exception e) { }
+                        catch (Exception e) {
+                            var x = e.Message;
+                        }
                         OAuthWebSecurity.Login(provider, providerUserId, createPersistentCookie: false);
 
                         return RedirectToLocal(returnUrl);

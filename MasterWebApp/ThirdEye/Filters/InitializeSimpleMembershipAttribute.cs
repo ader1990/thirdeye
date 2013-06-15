@@ -26,9 +26,9 @@ namespace ThirdEye.Filters
         {
             public SimpleMembershipInitializer()
             {
-                //Database.SetInitializer<AtlasContext>(null);
+                //Database.SetInitializer<FlowerContext>(null);
 
-                //WebSecurity.InitializeDatabaseConnection("FlowerConnection", "Users", "Id", "Name", autoCreateTables: true);
+                //WebSecurity.InitializeDatabaseConnection("FlowerConnection", "UserProfile", "Id", "Name", autoCreateTables: true);
             }
         }
     }

@@ -69,25 +69,37 @@ function (app, Backbone) {
             $(placeholder).show();
         }
     });
-    $("html").live("keydown", function (event) {  
-            var key = event.which;
-            switch (key) {
-                case 65: sendCommand("F", "FORWARD");
-                    event.preventDefault();
-                    break;
-                case 66: sendCommand("B", "BACKWARD");
-                    event.preventDefault();
-                    break;
-                case 67: sendCommand("L", "LEFT");
-                    event.preventDefault(); break;
-                case 68: sendCommand("R", "RIGHT");
-                    event.preventDefault(); break;
-                default: break;
-            }
+    $("html").live("keydown", function (event) {
+        var key = event.which;
+        switch (key) {
+            case 65: sendCommand("F", "FORWARD");
+                event.preventDefault();
+                break;
+            case 66: sendCommand("B", "BACKWARD");
+                event.preventDefault();
+                break;
+            case 67: sendCommand("L", "LEFT");
+                event.preventDefault(); break;
+            case 68: sendCommand("R", "RIGHT");
+                event.preventDefault(); break;
+            case 38: sendCommand("F", "FORWARD");
+                event.preventDefault();
+                break;
+            case 40: sendCommand("B", "BACKWARD");
+                event.preventDefault();
+                break;
+            case 37: sendCommand("L", "LEFT");
+                event.preventDefault(); break;
+            case 32: sendCommand("S", "STOP");
+                event.preventDefault(); break;
+            case 39: sendCommand("R", "RIGHT");
+                event.preventDefault(); break;
+            default: break;
+        }
 
         console.log(key);
     });
-    var sendCommand = function (data,commandText) {
+    var sendCommand = function (data, commandText) {
         $.ajax({
             data: {
                 Value: data

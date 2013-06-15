@@ -6,6 +6,7 @@ using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Threading;
 using System.Web;
 using System.Web.Http;
 using ThirdEye.Models;
@@ -15,24 +16,38 @@ namespace ThirdEye.Controllers
     public class CommandsController : ApiController
     {
         private FlowerContext db = new FlowerContext();
-
+        
         public Command GetCommand()
         {
             Command lc = null;
-            IList<Command> cs = db.Commands.OrderBy(x => -x.Id).Where(x => x.Executed == false).ToList();
+            var minTries = 0;
+            var timeout = 50;
+            while (minTries++ < 1000)
+            {
+                IList<Command> cs = db.Commands.OrderBy(x => -x.Id).Where(x => x.Executed == false).ToList();
+                if (cs != null && cs.Count() > 0)
+                {
+                    foreach (var c in cs)
+                    {
+                        lc = c;
+                        c.Executed = true;
+                        db.Entry(c).State = EntityState.Modified;
+                    }
+                    try
+                    {
+                        db.SaveChanges();
+                    }
 
-            foreach (var c in cs)
-            {
-                lc = c;
-                c.Executed = true;
-                db.Entry(c).State = EntityState.Modified;
+                    catch (Exception e) { } return lc;
+                }
+                else
+                {
+                    Thread.Sleep(timeout);
+                }
             }
-            try
-            {
-                db.SaveChanges();
-            }
-            catch (Exception e) { }
-            return lc;
+            return null;
+
+
         }
 
         // GET api/Flowers/5
@@ -70,11 +85,11 @@ namespace ThirdEye.Controllers
                 return Request.CreateResponse(HttpStatusCode.BadRequest);
             }
         }
-
+        [Authorize]
         // POST api/Flowers
         public HttpResponseMessage PostFlower(Command flower)
         {
-
+            flower.UserName = User.Identity.Name;
             db.Commands.Add(flower);
             db.SaveChanges();
 
