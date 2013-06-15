@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/Console"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp"
+        android:shadowColor="#444"
+        android:text="Hello"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#fff"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/circle_faded" />
+
+    <ImageButton
+        android:id="@+id/TrackBall"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@android:color/transparent"
+        android:cropToPadding="false"
+        android:paddingLeft="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/circle" />
+
+    <ImageButton
+        android:id="@+id/sync"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignBaseline="@+id/arduConnect"
+        android:layout_alignBottom="@+id/arduConnect"
+        android:layout_centerHorizontal="true"
+        android:onClick="onSync"
+        android:background="@android:color/transparent"
+        android:paddingLeft="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/sync_faded" />
+
+    <ImageButton
+        android:id="@+id/arduConnect"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/Console"
+        android:layout_marginLeft="28dp"
+        android:layout_toRightOf="@+id/imageView1"
+        android:background="@android:color/transparent"
+        android:cropToPadding="false"
+        android:onClick="onConnectToArduino"
+        android:paddingLeft="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/arduino_faded" />
+
+    <ImageButton
+        android:id="@+id/btConnect"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/Console"
+        android:layout_marginRight="29dp"
+        android:layout_toLeftOf="@+id/imageView1"
+        android:background="@android:color/transparent"
+        android:onClick="onActivateBt"
+        android:paddingLeft="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/bluetooth_faded" />
+
+</RelativeLayout>
